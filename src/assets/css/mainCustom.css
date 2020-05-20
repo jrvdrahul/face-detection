@@ -1,0 +1,41 @@
+.navbar-brand-img {
+  padding-left: 20px;
+}
+
+.line {
+  width: 2px;
+  height: 100px;
+  background: black;
+}
+
+.mt--7.container-fluid {
+  margin-top: -5rem !important;
+}
+.bg-gradient-info {
+  background: linear-gradient(87deg, #ffffff 0, #1a174d 100%) !important;
+}
+
+.imgPreview embed {
+  width: 600px;
+  height: 400px;
+}
+
+.switch {
+  transform: rotateY(180deg);
+}
+
+@media only screen and (max-width: 420px) {
+  video.video-identify {
+    width: 260px;
+  }
+  .line {
+    width: 300px;
+    height: 3px;
+    background: black;
+    margin: 20px 0px 20px 0px;
+  }
+  .imgPreview embed {
+    width: 260px;
+    height: 400px;
+  }
+}
