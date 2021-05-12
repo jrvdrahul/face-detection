@@ -48,7 +48,7 @@
     "@tensorflow/tfjs-converter": "^1.2.6",
     "@tensorflow/tfjs-core": "^1.2.6",
     "axios": "^0.19.0",
-    "chart.js": "2.7.3",
+    "chart.js": "2.9.4",
     "classnames": "2.2.6",
     "fs": "^0.0.1-security",
     "moment": "2.24.0",
